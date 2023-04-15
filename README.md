@@ -1,1 +1,1 @@
-# Loja de Joias Online
+# Loja Online
