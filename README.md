@@ -1,1 +1,1 @@
-# Loja Online
+# Loja Online (em desenvolvimento)
